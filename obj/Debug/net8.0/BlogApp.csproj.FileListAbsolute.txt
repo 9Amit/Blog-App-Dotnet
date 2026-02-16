@@ -1,0 +1,9 @@
+C:\Users\Manis\OneDrive\Desktop\ChatApplication\BLOG APPLICATION\BlogApp\obj\Debug\net8.0\BlogApp.csproj.AssemblyReference.cache
+C:\Users\Manis\OneDrive\Desktop\ChatApplication\BLOG APPLICATION\BlogApp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Manis\OneDrive\Desktop\ChatApplication\BLOG APPLICATION\BlogApp\obj\Debug\net8.0\BlogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manis\OneDrive\Desktop\ChatApplication\BLOG APPLICATION\BlogApp\obj\Debug\net8.0\BlogApp.AssemblyInfoInputs.cache
+C:\Users\Manis\OneDrive\Desktop\ChatApplication\BLOG APPLICATION\BlogApp\obj\Debug\net8.0\BlogApp.AssemblyInfo.cs
+C:\Users\Manis\OneDrive\Desktop\ChatApplication\BLOG APPLICATION\BlogApp\obj\Debug\net8.0\BlogApp.csproj.CoreCompileInputs.cache
+C:\Users\Manis\OneDrive\Desktop\ChatApplication\BLOG APPLICATION\BlogApp\obj\Debug\net8.0\BlogApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manis\OneDrive\Desktop\ChatApplication\BLOG APPLICATION\BlogApp\obj\Debug\net8.0\BlogApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manis\OneDrive\Desktop\ChatApplication\BLOG APPLICATION\BlogApp\obj\Debug\net8.0\BlogApp.sourcelink.json
