@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    max-width: 800px;
+    margin: 40px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input,
+textarea {
+    padding: 8px;
+    font-size: 16px;
+}
+
+button {
+    padding: 8px;
+    cursor: pointer;
+    background: black;
+    color: white;
+    border: none;
+}
+
+.post {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-top: 15px;
+}
+
+.post h3 {
+    margin: 0;
+}
